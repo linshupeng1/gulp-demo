@@ -1,5 +1,6 @@
 # gulp-demo
-> gulp自动构建工具用法：合并压缩资源，监听资源
+> 这是gulp自动构建工具的demo：
+  实现项目资源合并压缩和动态监听。
 *  gulp-sass和gulp-less 将sass/less转化为css
 *  gulp-concat 合并 js/css
 *  gulp-uglify 压缩js
